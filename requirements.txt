@@ -1,0 +1,9 @@
+Flask
+Flask-SQLAlchemy
+PyMySQL
+cryptography
+Werkzeug
+scikit-learn
+numpy
+reportlab
+python-dotenv
